@@ -1,0 +1,22 @@
+----- TICKET DE COMPRA -----
+Azucar  x3  $90.0
+Frijol  x3  $120.0
+
+Subtotal: $210.0
+IVA (16%): $33.6
+Total: $243.6
+----------------------------
+----- TICKET DE COMPRA -----
+Frijol  x3  $120.0
+Arroz  x1  $35.0
+
+Subtotal: $155.0
+IVA (16%): $24.8
+Total: $179.8
+----------------------------
+----- TICKET DE COMPRA -----Azucar  *2  $ 60.0
+
+Subtotal: $60.0
+IVA (16%): $9.6
+Total: $69.6
+----------------------------
